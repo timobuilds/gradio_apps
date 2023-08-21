@@ -1,0 +1,21 @@
+name: llm-deep
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - langchain
+  - openai
+  - tiktoken
+  - pip
+  - pip:
+    - utils
+    - python-utils
+    - jupyter
+    - umap-learn
+    - altair
+    - datasets
+    - python-dotenv
+    - cohere
+    - weaviate-client
+
+  
