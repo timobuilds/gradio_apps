@@ -40,5 +40,7 @@ micromamba activate llm-deep
 ```makefile
 WEAVIATE_API_KEY="your_api_key_here"
 COHERE_API_KEY = "your_api_key_here"
+OPENAI_API_KEY= "your_api_key_here"
+HF_API_KEY= "your_api_key_here"
 ```
 
